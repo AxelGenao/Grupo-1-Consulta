@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZSskl8hpGD2AvrM075tJJb6KTNB9W8MVqKUfiMvhKp3uMGOTMmFEgzdHl1Q71Dx+6y57kcN8L+C2cWzfjFepw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\axelg\\ConstruccionDeConsulta\\ConstruccionDeConsulta\\ConstruccionDeConsulta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\axelg\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
